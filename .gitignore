@@ -1,0 +1,21 @@
+# Large model files
+*.pth
+
+# Large zip files
+*.zip
+
+# Data directory
+data_dir/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Results
+results.json
