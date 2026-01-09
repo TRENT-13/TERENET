@@ -1,5 +1,5 @@
 # Large model files
-*.pth
+
 
 # Large zip files
 *.zip
